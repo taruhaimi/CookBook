@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lisää resepti</title>
+    <link rel="stylesheet" type="text/css" href="../templates/styles.css">
+</head>
+<body>
+    <h1>E-Kokkikirja</h1>
+    {% include "NavBar.html" %}
+
+    <h1>Lisää uusi resepti</h1>
+    <form method="POST" action="/lisaa-resepti">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+     
+        <label for="ingredients">Ingredients:</label>
+        <textarea id="ingredients" name="ingredients" required></textarea>
+     
+        <label for="instructions">Instructions:</label>
+        <textarea id="instructions" name="instructions" required></textarea>
+     
+        <label for="keys">Keywords:</label>
+        <input type="text" id="keys" name="keys" required>
+     
+        <button type="submit">Add Receipt</button>    
+    </form>
+</body>
+</html>

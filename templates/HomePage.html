@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+    <html>
+    <head>
+        <title>E-Kokkikirja</title>
+        <link rel="stylesheet" type="text/css" href="../templates/styles.css">
+    </head>
+    <body>
+        <h1>E-Kokkikirja</h1>
+        {% include "NavBar.html" %}
+
+        <h2> Kaikki reseptit </h2>
+        Tältä sivulta löytyy yhteensä {{count}} reseptiä!
+        <nav>
+            <ul class="nav-boxes">
+                {% for recipe in recipes %}
+                    <!-- <li  <a href = ""class="nav-box">{{ recipe.name }} </li> -->
+                    <li class="nav-box"><a href= " \resepti\{{ recipe.name }} " > <p>{{recipe.name}}</p> </a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+    </body>
+    </html>

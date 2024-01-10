@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reseptit</title>
+    <link rel="stylesheet" type="text/css" href="../templates/styles.css">
+
+</head>
+<body>
+    <h1>E-Kokkikirja</h1>
+    {% include "NavBar.html" %}
+
+    <h2>Sivustolta löytyvät {{dishType}}ruuat:</h2>
+    <nav>
+        <ul class="nav-boxes">
+            {% for recipe in dishes %}
+                <li class="nav-box"><a href= " \{{dishType}}\{{ recipe.name }} " > <p>{{recipe.name}}</p> </a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+
+</body>
+</html>

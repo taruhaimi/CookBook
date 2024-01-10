@@ -1,0 +1,1640 @@
+{
+    "recipe": [
+        {
+            "name": "Makaronilaatikko",
+            "ingredients": [
+                "400g makaronia",
+                "400g jauhelihaa",
+                "7dl maitoa",
+                "2-3 kananmunaa",
+                "Mausteet: lihaliemikuutio, mustapippuri, suola, sipuli, maustepippuri, basilika, timjami",
+                "Extrat: Juustoraaste, sulatejuusto"
+            ],
+            "instructions": [
+                "Keit\u00e4 makaronit lihaliemikuutiolla maustetussa vedess\u00e4",
+                "Ruskista jauheliha ja mausta",
+                "Sekoita kananmunat ja maito",
+                "Kaada kaikki ainekset voideltuun vuokaan",
+                "Kypsenn\u00e4 uunissa 175C n. 45min"
+            ],
+            "keys": [
+                "Pasta",
+                "Liha",
+                "Jauheliha"
+            ]
+        },
+        {
+            "name": "Kinkkupasta",
+            "ingredients": [
+                "300g pastaa",
+                "200g kinkkusuikaleita",
+                "2dl ruokakermaa",
+                "Mausteet: suola, mustapippuri, sipuli, basilika",
+                "Extrat: ananas, aurajuusto"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Sekoita kaikki ainekset pannulla ja kuumenna"
+            ],
+            "keys": [
+                "Pasta",
+                "Liha",
+                "Kinkku"
+            ]
+        },
+        {
+            "name": "Kanapasta",
+            "ingredients": [
+                "300g pastaa",
+                "450g kanasuikaleita",
+                "2dl ruokakermaa",
+                "Mausteet: kanaliemikuutio, suola, mustapippuri, sipuli, curry",
+                "Extrat: ananas, aurajuusto, pekoni"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta kanaliemikuutiolla maustetussa vedess\u00e4",
+                "Mausta ja kypsenn\u00e4 kana",
+                "Sekoita kaikki ainekset kesken\u00e4\u00e4n ja kuumenna"
+            ],
+            "keys": [
+                "Pasta",
+                "Kana"
+            ]
+        },
+        {
+            "name": "Kanariisi-sekoitus",
+            "ingredients": [
+                "400g kanasuikaleita",
+                "riisi\u00e4",
+                "1 pkt fetaa",
+                "2dl ruokakermaa",
+                "Mausteita"
+            ],
+            "instructions": [
+                "Keit\u00e4 riisi",
+                "Mausta ja kypsenn\u00e4 kana",
+                "Sekoita kaikki ainekset kesken\u00e4\u00e4n ja kuumenna"
+            ],
+            "keys": [
+                "Kana",
+                "Riisi"
+            ]
+        },
+        {
+            "name": "Tonnikalapasta",
+            "ingredients": [
+                "300g pastaa",
+                "2tlk tonnikalaa",
+                "500g tomaattimurskaa",
+                "1-2dl ruokakermaa",
+                "Mausteet: suola, mustapippuri, sipuli, basilika",
+                "Extrat: juustoraaste"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Sekoita kaikki ainekset kesken\u00e4\u00e4n ja kuumenna"
+            ],
+            "keys": [
+                "Pasta",
+                "Kala"
+            ]
+        },
+        {
+            "name": "Tomaatti-vuohenjuustokeitto",
+            "ingredients": [
+                "500g tomaattia",
+                "500g paseerattua tomaattia",
+                "200g vuohenjuustoa",
+                "1-2dl ruokakermaa",
+                "Mausteet: suola, mustapippuri, sokeri, (tuore) basilika",
+                "Extrat: Tuore patonki"
+            ],
+            "instructions": [
+                "Kiehautua paseerattu tomaatti",
+                "Lis\u00e4\u00e4 keittoon lohkotut tomaatit ja anna kiehua 5min",
+                "Lis\u00e4\u00e4 paloiteltu vuohenjuusto ja keit\u00e4 5min",
+                "Lis\u00e4\u00e4 kerma ja mausteet",
+                "Soseuta sauvasekoittimella tasaiseksi"
+            ],
+            "keys": [
+                "Keitto",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Lihapullat",
+            "ingredients": [
+                "400g jauhelihaa",
+                "1.5dl maitoa?",
+                "1 kananmuna",
+                "Korppujauhoja",
+                "Mausteet: suola, mustapippuri, sipuli",
+                "Extrat: aurajuusto, sulatejuusto, bernaisekastike, perunamuusi"
+            ],
+            "instructions": [
+                "Mausta jauheliha ja sekoita kananmuna jauhelihaan",
+                "Py\u00e4rittele seoksesta palloja ja py\u00e4r\u00e4yt\u00e4 ne jauhoissa",
+                "Paista uunissa 200C 20min"
+            ],
+            "keys": [
+                "Jauheliha",
+                "Liha",
+                "Peruna"
+            ]
+        },
+        {
+            "name": "Kinkkukiusaus",
+            "ingredients": [
+                "1-2ps kinkkusuikaleita",
+                "400-700g perunalohkoja",
+                "2dl ruokakermaa",
+                "Mausteet: suola, pippuri, basilika",
+                "Extrat: aurajuusto, feta"
+            ],
+            "instructions": [
+                "Kaada kaikki ainekset voideltuun vuokaan",
+                "Paista uunissa 200C 20min"
+            ],
+            "keys": [
+                "Liha",
+                "Laatikkoruoka",
+                "Peruna"
+            ]
+        },
+        {
+            "name": "Lasagne",
+            "ingredients": [
+                "400g jauhelihaa",
+                "noin 10kpl lasagnelevyj\u00e4",
+                "1prk tomaattikastiketta",
+                "1prk juustokastiketta",
+                "Juustoraastetta",
+                "Mausteet: suola, pippuri, sipuli, valkosipuli, lihaliemikuutio, valkopippuri"
+            ],
+            "instructions": [
+                "Mausta ja paista jauheliha, sekoita tomaattikastike jauhelihaan",
+                "Pinoa levyt, jauhelihakastike, juustokastike ja juustoraaste voideltuun vuokaan",
+                "Paista uunissa 175C 50-60min"
+            ],
+            "keys": [
+                "Pasta",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Tortillalasagne",
+            "ingredients": [
+                "400g jauhelihaa",
+                "Tortilloja",
+                "1prk tomaattikastiketta",
+                "1prk juustokastiketta",
+                "Juustoraastetta",
+                "Mausteet: suola, pippuri, sipuli, valkosipuli, lihaliemikuutio, valkopippuri",
+                "Extrat: Juustokastikkeen ja juustoraasteen voi korvata ruokakermalla ja raejuustolla"
+            ],
+            "instructions": [
+                "Mausta ja paista jauheliha, sekoita tomaattikastike jauhelihaan",
+                "Pinoa tortillat, jauhelihakastike, juustokastike ja juustoraaste voideltuun vuokaan",
+                "Paista uunissa 225C noin 10-15min"
+            ],
+            "keys": [
+                "Tortilla",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Tortillat",
+            "ingredients": [
+                "Jauhelihaa/Kanasuikaleita",
+                "Riisi\u00e4",
+                "Salsaa",
+                "Ranskankermaa",
+                "Guacamolea",
+                "Fetaa",
+                "Nachoja",
+                "Salaattia",
+                "Kurkkua",
+                "Juustoraastetta"
+            ],
+            "instructions": [
+                "Keit\u00e4 riisi",
+                "Kypsenn\u00e4 liha",
+                "Kasaa ainekset tortillaan ja taittele"
+            ],
+            "keys": [
+                "Tortilla",
+                "Jauheliha",
+                "Liha",
+                "Kana"
+            ]
+        },
+        {
+            "name": "Wrapit",
+            "ingredients": [
+                "Tortilloja",
+                "Kanasuikaleita/Kinkkusiivuja",
+                "Tuorejuustoa",
+                "Salaattia",
+                "Kurkkua",
+                "Extrat: Nachoja, fetamurua, bbq-kastiketta, majoneesia, vaahterasiirappia"
+            ],
+            "instructions": [
+                "Kasaa ainekset ohuesti tortillan p\u00e4\u00e4lle",
+                "Py\u00e4rit\u00e4 tortilla wrapiksi ja leikkaa kahtia"
+            ],
+            "keys": [
+                "Tortilla",
+                "Liha",
+                "Kana",
+                "V\u00e4lipala"
+            ]
+        },
+        {
+            "name": "Pasta carbonara",
+            "ingredients": [
+                "1-2 pkt pekonisuikaleita",
+                "300g spagettia",
+                "2dl ruokakermaa",
+                "Mausteet: suola, mustapippuri, valkosipulia",
+                "Extrat: parmesaania"
+            ],
+            "instructions": [
+                "Mausta ja kypsenn\u00e4 pekonit",
+                "Keit\u00e4 pasta",
+                "Sekoita kerma pekonin joukkoon"
+            ],
+            "keys": [
+                "Liha",
+                "Pekoni",
+                "Pasta"
+            ]
+        },
+        {
+            "name": "L\u00e4mpim\u00e4t voileiv\u00e4t",
+            "ingredients": [
+                "Leip\u00e4\u00e4",
+                "Kinkkua/tonnikalaa",
+                "Ketsuppia/voita",
+                "Juustoa/juustoraastetta",
+                "Mausteet: oregano, basilika",
+                "Extrat: feta, majoneesi"
+            ],
+            "instructions": [
+                "Voitele leiv\u00e4t ja t\u00e4yt\u00e4 valitsemillasi t\u00e4ytteill\u00e4",
+                "Paista uunissa 225C 8-12min"
+            ],
+            "keys": [
+                "Liha",
+                "V\u00e4lipala",
+                "Leip\u00e4"
+            ]
+        },
+        {
+            "name": "Sandwichit",
+            "ingredients": [
+                "Paahtoleip\u00e4\u00e4",
+                "Kinkkua",
+                "Juustoa/juustoraastetta",
+                "Voi",
+                "Extrat: majoneesi"
+            ],
+            "instructions": [
+                "Voitele ja t\u00e4yt\u00e4 leip\u00e4 sandwichiksi",
+                "L\u00e4mmit\u00e4 vohveliraudassa, kunnes juusto on sulaa",
+                "Leikkaa kahtia"
+            ],
+            "keys": [
+                "Leip\u00e4",
+                "V\u00e4lipala",
+                "Liha"
+            ]
+        },
+        {
+            "name": "J\u00e4\u00e4kahvi",
+            "ingredients": [
+                "Kahvi",
+                "Maito, Sokeri",
+                "Extrat: makusiirappi, j\u00e4it\u00e4"
+            ],
+            "instructions": [
+                "Keit\u00e4 kahvi",
+                "Sekoita sokerit ja siirappi kuumaan kahviin",
+                "Anna kahvin j\u00e4\u00e4hty\u00e4",
+                "Lis\u00e4\u00e4 maito ja j\u00e4\u00e4palat"
+            ],
+            "keys": [
+                "Juoma"
+            ]
+        },
+        {
+            "name": "Kinkkupastasalaatti",
+            "ingredients": [
+                "1ps kinkkusuikaleita",
+                "300-400g makaronia",
+                "1-2 omenaa",
+                "1pkt fetaa",
+                "noin 1/2 kurkku",
+                "1-2 kermaviili\u00e4 mausteseoksineen (esim. ranch)"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Sekoita mausteseokset kermaviileihin",
+                "Pilko feta, omena ja kurkku",
+                "Sekoita ainekset kesken\u00e4\u00e4n"
+            ],
+            "keys": [
+                "Salaatti",
+                "Pasta",
+                "Liha"
+            ]
+        },
+        {
+            "name": "L\u00e4mmin kanasalaatti",
+            "ingredients": [
+                "Kanasuikaleita",
+                "Salaattia, Kurkkua",
+                "Fetaa",
+                "Omenaa",
+                "Krutonkeja",
+                "Ceasar-kastiketta",
+                "Juustolastuja",
+                "Parmesaania",
+                "Extrat: nachoja, cashew-p\u00e4hkin\u00e4it\u00e4"
+            ],
+            "instructions": [
+                "Mausta ja kypsenn\u00e4 kana",
+                "Pilko kurkku, feta ja omena",
+                "Sekoita ainekset kesken\u00e4\u00e4n"
+            ],
+            "keys": [
+                "Salaatti",
+                "Kana"
+            ]
+        },
+        {
+            "name": "V\u00e4limeren fetakana",
+            "ingredients": [
+                "4 broilin reisikoipea",
+                "100g fetaa",
+                "25 huoneenl\u00e4mp\u00e4ist\u00e4 voita",
+                "Mausteet: suola, mustapippuri, 2rkl (tuoretta) oreganoa"
+            ],
+            "instructions": [
+                "Hiero feta ja voi tahnaksi, mausta",
+                "Ty\u00e4nn\u00e4 fetatahna koipipalojen nahan alle, tasoita nahka ja leikkaa siihen veitsell\u00e4 viiltoja",
+                "Paista uunissa 200C n. 50min ritil\u00e4ll\u00e4, jonka alla on leivinpaperillinen pelti"
+            ],
+            "keys": [
+                "Kana"
+            ]
+        },
+        {
+            "name": "Kana-tacosalaatti",
+            "ingredients": [
+                "400g kanasuikaleita",
+                "salaattia",
+                "1 kurkku",
+                "185g tortilla/taco sipsej\u00e4",
+                "500g viiniryp\u00e4leit\u00e4",
+                "Mausteet: suolaa, mustapippuria, broilerimaustetta",
+                "Extrat: chia-siemeni\u00e4"
+            ],
+            "instructions": [
+                "Mausta ja kypsenn\u00e4 kana",
+                "Murskaa tortillasipsit, revi salaatti, pilko kurkku ja viiniryp\u00e4leet",
+                "Sekoita ainekset kesken\u00e4\u00e4n"
+            ],
+            "keys": [
+                "Kana",
+                "Salaatti"
+            ]
+        },
+        {
+            "name": "Valkosuklaajuustokakku",
+            "ingredients": [
+                "150g kaurakeksej\u00e4",
+                "50g voita",
+                "2dl vispikermaa",
+                "200g valkosuklaata",
+                "1rs tuorejuustoa (maustamaton/appelsiini/vanilja)",
+                "1rkl sokeria",
+                "4 liivatelehte\u00e4",
+                "1rkl limetinmehua"
+            ],
+            "instructions": [
+                "Hienonna keksit muruksi ja sekoita sulatetun voin kanssa",
+                "Levit\u00e4 ja taputtele muruseos leivinpaperilla vuorattuun irtopohjavuokaan (vuoan voi nostaa kylm\u00e4\u00e4n j\u00e4hmettym\u00e4\u00e4n)",
+                "Liota liivatelehti\u00e4 5-10min kylm\u00e4ss\u00e4 vedess\u00e4",
+                "Vatkaa valkuaiset sokerin kanssa kovaksi vaahdoksi (ei yht\u00e4\u00e4n keltuaista tai ei vaahdotu!)",
+                "Vaahdota kerma",
+                "Sulata suklaa (esim. vesihauteessa)",
+                "Vatkaa suklaan joukkoon tuorejuusto",
+                "Purista liivatelehdist\u00e4 vesi pois, liuota ne kiehuvan kuumaan limetti- tai sitruunamehuun, ja vatkaa hieman j\u00e4\u00e4htynyt seos ohuena nauhana t\u00e4ytteen joukkoon",
+                "Lis\u00e4\u00e4 vaahdot varovasti sekoittaen t\u00e4ytteeseen",
+                "Kaada t\u00e4yte keksipohjalle",
+                "Peit\u00e4 vuoka ja anna hyyty\u00e4 j\u00e4\u00e4kaapissa seuraavaan p\u00e4iv\u00e4\u00e4n",
+                "Koristele"
+            ],
+            "keys": [
+                "Kakku",
+                "J\u00e4lkiruoka"
+            ]
+        },
+        {
+            "name": "Nyht\u00f6kana",
+            "ingredients": [
+                "800g kanan rintafileit\u00e4/fileeleikett\u00e4",
+                "2dl salsaa",
+                "2dl vett\u00e4",
+                "1/2 lime",
+                "1-3 valkosipulinkyntt\u00e4",
+                "1rkl hunajaa",
+                "Mausteet: suola, mustapippuri",
+                "Extrat: Salsan yms. mausteet voi korvata soijalla"
+            ],
+            "instructions": [
+                "Laita kanat voideltuun vuokaan, ripottele mausteet",
+                "Sekoita salsa, vesi, limemehu, valkosipulit ja hunaja",
+                "Kaada seos vuokaan niin, ett\u00e4 kanat miltei peitty\u00e4vt (voi lis\u00e4t\u00e4 vett\u00e4 tarvittaessa)",
+                "Paista uunissa kannen/folion alla 150C 1h 45min - 2h",
+                "Revi kanat erilliselle lautaselle",
+                "J\u00e4lkimarinointi (vapaavalintainen): Kaada kattilaan puolet kanan paistoliemest\u00e4, lis\u00e4\u00e4 1/2dl salsaa, 1rkl ketsuppia, 1rkl sinappia ja mausteita. Kiehauta ja anna hautua hetki miedolla l\u00e4mm\u00e4ll\u00e4. Sekoita valmis liemi kanojen joukkoon"
+            ],
+            "keys": [
+                "Kana"
+            ]
+        },
+        {
+            "name": "Nyht\u00f6kana-tacot",
+            "ingredients": [
+                "700-800g kanaa",
+                "Kanan mausteet: 2rkl vaahterasiirappia, 1rkl srirachaa tai muuta chilikastiketta, 1rkl sitruuna- tai limemehua, 2tl savustettua paprikajauhetta, 1tl kurkumaa, 1tl valkosipulijauhetta, rouhittua pippuria",
+                "Salsaa",
+                "Pieni\u00e4 tortilloja",
+                "Salaatti",
+                "Kurkku",
+                "Juustoraaste",
+                "Jugurttikastikkeen mausteet: 2dl kreikkalaista jugurttia, 1-1.5dl raastettua kurkkua nesteineen, puolikas nippu persiljanlehti\u00e4 hienonnettuna, suolaa, pippuria, 1rkl sitruuna- tai limemehua"
+            ],
+            "instructions": [
+                "Sekoita ainekset ja kaada voideltuun uunivuokaan",
+                "Paista uunissa kannen/folion alla 175C 1.5h",
+                "Siirr\u00e4 kanat kulhoon ja lis\u00e4\u00e4 kulhoon puolet paistoliemest\u00e4",
+                "Revi kanat",
+                "Jugurttikastike: Sekoita ainekset ja laita j\u00e4\u00e4kaappiin maustumaan",
+                "Paahda tortillat leiv\u00e4npaahtimen samassa kolossa",
+                "T\u00e4yt\u00e4 tacot: salsa -> kasvikset -> kana -> jugurttikastike"
+            ],
+            "keys": [
+                "Tortilla",
+                "Kana"
+            ]
+        },
+        {
+            "name": "BBQ-nyht\u00f6kana",
+            "ingredients": [
+                "500-600g kananrintaa tai fileit\u00e4",
+                "reilu 1/2dl bbq-kastiketta",
+                "2rkl hunajaa",
+                "1rkl oliivi\u00f6ljy\u00e4",
+                "1/2dl vett\u00e4",
+                "Mausteet: 1tl paprikajauhetta, 1tl valkosipulia, 1/2tl kurkumaa, 1/2tl chilijauhetta, rouhittua mustapippuria",
+                "Extrat: tortillat, pitaleiv\u00e4t"
+            ],
+            "instructions": [
+                "Sekoita kanan joukkoon kaikki aineet paitsi vesi ja \u00f6ljy (marinaadi)",
+                "Kaada marinoidut kanat vuokaan ja lis\u00e4\u00e4 vesi ja \u00f6ljy",
+                "Paista uunissa kannen/folion alla 175C 1h 45min",
+                "Ota kansi/folio pois ja paista viel\u00e4 15min",
+                "Revi kanat",
+                "Lis\u00e4\u00e4 bbq-kastiketta oman maun mukaan 1-2rkl"
+            ],
+            "keys": [
+                "Kana",
+                "Tortilla",
+                "Pitaleip\u00e4"
+            ]
+        },
+        {
+            "name": "Bolognesekastike",
+            "ingredients": [
+                "600-800g jauhelihaa",
+                "Spagettia",
+                "1prk Dolmio-kastiketta",
+                "1-2dl ruokakermaa",
+                "1-2dl vett\u00e4",
+                "1rkl sinappia",
+                "porkkanaraastetta",
+                "Mausteet: suolaa, pippuria, sipulia, valkosipulia, (1/2 ruukku tuoretta) basilikaa, 2tl srirachaa"
+            ],
+            "instructions": [
+                "Keit\u00e4 spagetti",
+                "Mausta ja paista jauheliha",
+                "Lis\u00e4\u00e4 kastike, tuore basilikaa, sinappi ja kerma",
+                "Lis\u00e4\u00e4 vett\u00e4, ja anna kastikkeen hautua kannen alla n. 10-15min"
+            ],
+            "keys": [
+                "Pasta",
+                "Liha",
+                "Jauheliha"
+            ]
+        },
+        {
+            "name": "Kana-vuohenjuustopasta",
+            "ingredients": [
+                "300g pastaa",
+                "300g kanasuikaleita",
+                "100g vuohenjuustoa",
+                "400g pastakastiketta",
+                "2dl ruokakerma",
+                "5dl vett\u00e4",
+                "Mausteet: suola, mustapippuri, paprikajauhe, sipuli, valkosipuli",
+                "Extrat: juustoraaste"
+            ],
+            "instructions": [
+                "Sekoita ainekset ja kaada voideltuun uunivuokaan",
+                "Paista uunissa 220C 50min, sekoita puoliv\u00e4liss\u00e4"
+            ],
+            "keys": [
+                "Pasta",
+                "Kana"
+            ]
+        },
+        {
+            "name": "Quesadilla salamilla",
+            "ingredients": [
+                "Tortilla",
+                "Juustoraastetta",
+                "Tomaattikastiketta",
+                "Chorizoa/Salamia",
+                "Mausteet: Oregano + mit\u00e4 haluu"
+            ],
+            "instructions": [
+                "Levit\u00e4 t\u00e4ytteet puolelle tortillasta",
+                "Paista molempia puolia 1-2min",
+                "Leikkaa 3-4 osaan"
+            ],
+            "keys": [
+                "Tortilla",
+                "Liha",
+                "V\u00e4lipala"
+            ]
+        },
+        {
+            "name": "Quesadilla kanalla",
+            "ingredients": [
+                "Tortilla",
+                "Juustoraastetta",
+                "Kanasuikaleita",
+                "Voita",
+                "Valkosipulia",
+                "Mausteet: suola, persilja"
+            ],
+            "instructions": [
+                "Sulata voi ja sekoita joukkoon valkosipulit, suola ja persilja",
+                "Levit\u00e4 t\u00e4ytteet puolelle tortillasta / Kokonaiselle tortillalle ja laita toinen tortilla kanneksi",
+                "Paista molempia puolia 1-2min",
+                "Leikkaa 3-4/6-8 osaan"
+            ],
+            "keys": [
+                "Tortilla",
+                "Kana",
+                "V\u00e4lipala"
+            ]
+        },
+        {
+            "name": "Juustoinen tomaattipasta",
+            "ingredients": [
+                "1ps makaronia",
+                "1ps tomaattikeittoa",
+                "noin 5dl vett\u00e4",
+                "1ps juustoraastetta",
+                "Mausteet: suola, pippuri, basilika"
+            ],
+            "instructions": [
+                "Kaada ja sekoita makaroni, tomaattikeitto ja vesi voideltuun uunivuokaan",
+                "Paista uunissa 220C 40min",
+                "Lis\u00e4\u00e4 juustoraaste ja paista uunissa viel\u00e4 5min"
+            ],
+            "keys": [
+                "Pasta",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Kermainen avokadopasta",
+            "ingredients": [
+                "1ps makaronia",
+                "1 avokado",
+                "1/2 sitruunan mehua",
+                "Parmesaania",
+                "Oliivi\u00f6ljy\u00e4",
+                "Mausteet: valkosipulia, (tuoretta) basilikaa"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Kuori avokado ja soseuta kaikki ainekset yhteen",
+                "Sekoita avokadoseos pastan joukkoon"
+            ],
+            "keys": [
+                "Pasta",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Nuudelilasagne",
+            "ingredients": [
+                "400g jauhelihaa",
+                "4 levy\u00e4 nuudeleita",
+                "400g tomaattimurskaa",
+                "2dl ranskankermaa",
+                "1ps juustoraastetta",
+                "2dl vett\u00e4",
+                "Mausteet: suola, mustapippuri, paprikajauhe, sipuli, valkosipuli"
+            ],
+            "instructions": [
+                "Mausta ja paista jauheliha",
+                "Lis\u00e4\u00e4 jauhelihaan tomaattimurska",
+                "Levit\u00e4 vuoan pohjalle 1/3 ranskankermasta",
+                "Pinoa vuokaan kaksi kerrosta: kaksi nuudelilevy\u00e4, puolet jauhelihakastikkeesta, ranskankermaa ja juustoraastetta",
+                "Lis\u00e4\u00e4 vesi",
+                "Paista uunissa 220C 30min"
+            ],
+            "keys": [
+                "Pasta",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Pina Colada Spritz",
+            "ingredients": [
+                "2cl trooppista rommia",
+                "1dl kookosvett\u00e4",
+                "2dl ananaslonkeroa",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: tuore ananas lasin reunaan"
+            ],
+            "instructions": [
+                "T\u00e4yt\u00e4 lasi j\u00e4ill\u00e4",
+                "Mittaa lasiin rommi, kookosvesi ja ananaslonkero",
+                "Koristele leikkaamalla ananaksesta kolmion muotoinen siivu ja tee siihen viilto. Irrota ananaksesta 1\u00e2\u20ac\u201c2 lehte\u00e4 ja huuhtele ne. Lis\u00e4\u00e4 lasiin"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Mangoprosecco",
+            "ingredients": [
+                "3rkl mangonektaria",
+                "1 1/2dl prosecco kuohuviini\u00e4",
+                "1/2 lime",
+                "Koristeeksi: lime- ja jalopenoviipaleita, lasin reunaan suolaa sis\u00e4lt\u00e4v\u00e4\u00e4 chilimausteseosta"
+            ],
+            "instructions": [
+                "Sivele lasin reuna limen puolikkaalla ja py\u00e4rittele reunaa lautasella chili-suolaseoksessa",
+                "Mittaa mangonektari lasiin ja kaada p\u00e4\u00e4lle kuohuviini",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Long shot lemonade",
+            "ingredients": [
+                "6cl Original Long Shot Lemonadea",
+                "2cl sitruunamehua",
+                "1cl hunajaa",
+                "4cl Ginger alea",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: sitruunansiivu ja rosmariininoksa"
+            ],
+            "instructions": [
+                "Mittaa lasiin sitruunamehu ja hunaja, ja sekoita kunnolla",
+                "Lis\u00e4\u00e4 loput ainekset",
+                "T\u00e4yt\u00e4 lasi j\u00e4ill\u00e4 ja sekoita kunnolla",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Mojito",
+            "ingredients": [
+                "10kpl mintunlehti\u00e4",
+                "2tl ruokosokeria",
+                "1/2-1 lime\u00e4 lohkoina",
+                "4cl vaaleaa rommia",
+                "6cl soodavett\u00e4",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: limenviipaleita"
+            ],
+            "instructions": [
+                "Murskaa limelohkot ja sokeri lasiin",
+                "Hiero mintunlehti\u00e4 kevyesti k\u00e4siss\u00e4 ja lis\u00e4\u00e4 lasiin (varo rikkomasta lehtien rakennetta liikaa)",
+                "Lis\u00e4\u00e4 rasiin runsaasti j\u00e4it\u00e4",
+                "Lis\u00e4\u00e4 rommi ja soodavesi, sekoita varovasti",
+                "Koristele limell\u00e4 ja mintulla"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Margarita",
+            "ingredients": [
+                "2 1/2cl tequilaa",
+                "1 1/2cl sitruslik\u00e4\u00e4ri\u00e4",
+                "2cl limemehua",
+                "Reilusti j\u00e4it\u00e4",
+                "Extrat: blendattuja (pakaste)marjoja, mansikka(tms)lik\u00e4\u00e4ri\u00e4",
+                "Koristeeksi: appelsiinin/mansikan siivu"
+            ],
+            "instructions": [
+                "Viilenn\u00e4 lasi j\u00e4\u00e4kaapissa",
+                "Tee halutessasi lasiin suolareunus (kostuta lasin reuna limetin mehulla ja py\u00e4r\u00e4yt\u00e4 lasia suolalautasella)",
+                "Lis\u00e4\u00e4 ainekset shakeriin/blenderiin ja sekoita",
+                "Siivil\u00e4i juoma j\u00e4ill\u00e4 t\u00e4ytettyyn lasiin"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Moskovan muuli",
+            "ingredients": [
+                "4cl vodkaa",
+                "2cl limettimehua",
+                "12cl ginger beer",
+                "Koristeeksi: limelohko"
+            ],
+            "instructions": [
+                "T\u00e4yt\u00e4 lasi j\u00e4ill\u00e4",
+                "Mittaa vodka ja limemehu, pidenn\u00e4 inkiv\u00e4\u00e4rioluella",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Limoncello Spritz",
+            "ingredients": [
+                "4cl Limoncelloa",
+                "10cl Proseccoa",
+                "Kivenn\u00e4isvett\u00e4",
+                "Runsaasti j\u00e4it\u00e4",
+                "Koristeeksi: sitruunan viipaleita ja minttua"
+            ],
+            "instructions": [
+                "T\u00e4yt\u00e4 lasi j\u00e4ill\u00e4",
+                "Miittaa lasiin limoncello ja prosecco",
+                "T\u00e4ydenn\u00e4 kivenn\u00e4isvedell\u00e4",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Cosmopolitan",
+            "ingredients": [
+                "2 1/2cl vodkaa",
+                "1 1/2cl sitruslik\u00e4\u00e4ri\u00e4 (esim. triple sec)",
+                "1cl limettimehua",
+                "3cl karpalomehua",
+                "Koristeeksi: sitruuna- tai limettilohko"
+            ],
+            "instructions": [
+                "Ravista aineosat j\u00e4iden kanssa",
+                "Siivil\u00e4i juoma j\u00e4\u00e4hdytettyyn coctaillasiin",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Sex on the beach",
+            "ingredients": [
+                "2cl vodkaa",
+                "2cl persikkalik\u00e4\u00e4ri\u00e4",
+                "4cl karpalomehua",
+                "8cl appelsiinimehua",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: appelsiinisiivu"
+            ],
+            "instructions": [
+                "T\u00e4yt\u00e4 shakeri j\u00e4ill\u00e4 ja kaada aineosat sinne",
+                "Kaada/Siivil\u00e4i ravistettu juoma ja j\u00e4\u00e4t lasiin",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Limoncello Sunrise",
+            "ingredients": [
+                "3cl Limoncello",
+                "9cl Appelsiinimehua",
+                "Loraus grenadiinia",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: appelsiinisiivu ja kirsikka"
+            ],
+            "instructions": [
+                "Kaada j\u00e4\u00e4t lasiin",
+                "Lis\u00e4\u00e4 ainekset lasiin",
+                "Koristele"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Frozen Daiquiri",
+            "ingredients": [
+                "4cl vaaleaa rommia tai rommilik\u00e4\u00e4ri\u00e4 (esim. Malibu Original)",
+                "2cl limemehua",
+                "1tl tomusokeria/sokerisiirappia",
+                "J\u00e4it\u00e4",
+                "Koristeeksi: limeviipale"
+            ],
+            "instructions": [
+                "Laita rommi(/-lik\u00e4\u00e4ri), limemehu, sokerisiirappi ja j\u00e4\u00e4t tehosekoittimeen",
+                "Kaada j\u00e4inen sile\u00e4 juoma lasiin",
+                "Koristele limekiekolla"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Cuba libre",
+            "ingredients": [
+                "6cl vaaleaa (kuubalaista) rommia",
+                "15cl Coca colaa",
+                "Limelohko/2cl limettimehua",
+                "Reilusti j\u00e4it\u00e4",
+                "Koristeeksi: sitruuna- tai limeviipale"
+            ],
+            "instructions": [
+                "T\u00e4yt\u00e4 lasi j\u00e4ill\u00e4",
+                "Lis\u00e4\u00e4 lasiin rommi ja limemehu, tai murskaa limelohko lasin pohjalle ennen j\u00e4it\u00e4",
+                " kevyesti",
+                "Koristele limesiivulla"
+            ],
+            "keys": [
+                "Drinkki"
+            ]
+        },
+        {
+            "name": "Mozzarella-raviolipasta",
+            "ingredients": [
+                "400g pastakastiketta",
+                "2dl ruokakermaa",
+                "1pkt ravioleja tai tortellineja",
+                "1 pallo mozzarellaa",
+                "Mausteet: pinnalle tuoreita yrttej\u00e4 esim. basilikaa"
+            ],
+            "instructions": [
+                "Laita uunivuokaan pastakastike, ruokakerma ja raviolit, ja sekoita",
+                "Revi mozzarella paloiksi pastan p\u00e4\u00e4lle",
+                "Paista uunissa 225C 25min."
+            ],
+            "keys": [
+                "Pasta",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Tonnikalapastasalaatti",
+            "ingredients": [
+                "500g pastaa",
+                "4prk tonnikalaa",
+                "1prk fetaa",
+                "1 kurkku",
+                "1prk kermaviili\u00e4",
+                "2rkl majoneesia",
+                "3rkl sinappikurkkusalaattia",
+                "Mausteet: suolaa, mustapippuria, kev\u00e4tsipulia"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Tee 'salaattikastike': sekoita pilkottu kev\u00e4tsipuli, kermaviili, majoneesi ja mausteet",
+                "Kuutioi kurkku ja feta",
+                "Sekoita kaikki aineet yhteen tasaiseksi"
+            ],
+            "keys": [
+                "Pasta",
+                "Kala",
+                "Salaatti"
+            ]
+        },
+        {
+            "name": "Savulohipastasalaatti",
+            "ingredients": [
+                "500g pastaa",
+                "n, 500g savulohta",
+                "1prk fetaa",
+                "1 kurkku",
+                "1prk kermaviili\u00e4",
+                "2rkl majoneesia",
+                "Mausteet: tilli\u00e4, sitruunamehua, suolaa ja mustapippuria"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta",
+                "Tee 'salaattikastike': sekoita kermaviili, majoneesi ja mausteet",
+                "Kuutioi kurkku ja feta",
+                "Sekoita kaikki aineet yhteen tasaiseksi"
+            ],
+            "keys": [
+                "Kala",
+                "Pasta",
+                "Salaatti"
+            ]
+        },
+        {
+            "name": "Cocacola-jauhelihapasta",
+            "ingredients": [
+                "Spagettia",
+                "1pkt jauhelihaa",
+                "1pkt tuorejuustoa",
+                "1ps mozzarellajuustoraastetta",
+                "400-500g paseerattua tomaattia",
+                "2dl kermaa",
+                "Loraus soijaa",
+                "1tlk kolaa",
+                "Mausteet: jauhelihamausteet + yrttej\u00e4"
+            ],
+            "instructions": [
+                "Mausta ja paista jauheliha",
+                "Laita kaikki ainekset uunivuokaan",
+                "Lis\u00e4\u00e4 keitetty\u00e4 vett\u00e4",
+                "Paista uunissa 200C n 40min"
+            ],
+            "keys": [
+                "Pasta",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Tonnikalapastavuoka",
+            "ingredients": [
+                "1ps pastaa",
+                "1prk tuorejuustoa",
+                "1prk tomaattimurskaa",
+                "2prk tonnikalaa",
+                "1 pallo mozzarellaa (siivuina)",
+                "2dl ruokakermaa",
+                "1ps juustoraastetta",
+                "Mausteet: (tuore) basilika"
+            ],
+            "instructions": [
+                "Sekoita kaikki ainekset uunivuokaan",
+                "Lis\u00e4\u00e4 tarvittaessa vett\u00e4, ja sekoita",
+                "Ripottele p\u00e4\u00e4lle juustoraastetta",
+                "Paista uunissa 175C 45min"
+            ],
+            "keys": [
+                "Pasta",
+                "Kala"
+            ]
+        },
+        {
+            "name": "Tortillavuoka",
+            "ingredients": [
+                "Tortilloja\r",
+                "1prk pizzakastiketta\r",
+                "1pkt jauhelihaa\r",
+                "1ps juustoraastetta\r",
+                "Mausteet: oreganoa"
+            ],
+            "instructions": [
+                "Mausta ja paista jauheliha\r",
+                "Levit\u00e4 pizzakastiketta, jauhelihaa, juustoraastetta ja oreganoa tortillalle\r",
+                "K\u00e4\u00e4ri tortilla: taita ensin sivuilta keskelle ja rullaa\r",
+                "Leikkaa tortilla n. 5 osaan\r",
+                "Laita tortillasiivut irtopohjavuokaan, ja ripottele p\u00e4\u00e4lle reilusti juustoraastetta\r",
+                "Paista uunissa 220C n. 15min"
+            ],
+            "keys": [
+                "Tortilla",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Ciabatta-pizzapalat",
+            "ingredients": [
+                "Ciabatta-patonki\r",
+                "50g voita\r",
+                "Juustoraastetta\r",
+                "Pepperonia\r",
+                "Mausteet: pippuri, valkosipuli, persilja, oregano\r",
+                "Extrat: Pizzakastike (tuoreella) basilikalla"
+            ],
+            "instructions": [
+                "Sulata voi ja sekoita siihen mausteet\r",
+                "Leikkaa ciabatta sopiviksi paloiksi\r",
+                "Laita v\u00e4leihin pepperonia ja juustoraastetta\r",
+                "Voitele ciabatat voikastikkeella\r",
+                "Paista uunissa 200C n. 10min\r",
+                "Tarjoile ciabatat dipattavaksi pizzakastikkeeseen"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                " Liha"
+            ]
+        },
+        {
+            "name": "BBQ-kana-patonki",
+            "ingredients": [
+                "Valkosipulipatonki\r",
+                "BBQ-kastiketta\r",
+                "Kanasuikaleita\r",
+                "Mozzarellajuustoraastetta\r"
+            ],
+            "instructions": [
+                "Leikkaa viiltoja patonkiin\r",
+                "T\u00e4yt\u00e4 viillot bbq-kastikkeella ja kanasuikaleilla\r",
+                "Ripottele patongin p\u00e4\u00e4lle juustoraastetta\r",
+                "Paista patonki uunissa patongin ohjeiden mukaisesti"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kana"
+            ]
+        },
+        {
+            "name": "Valkosipuli-parmesaani ranskalaiset",
+            "ingredients": [
+                "Perunoita\r",
+                "\u00d6ljy\u00e4\r",
+                "Parmesaania\r",
+                "Mausteet: suola, valkosipuli, persilja"
+            ],
+            "instructions": [
+                "Paista perunoita uunissa 200C 45min\r",
+                "Anna perunoiden j\u00e4\u00e4hty\u00e4 kokonaan\r",
+                "Leikkaa perunat pitkitt\u00e4issuunnassa lohkoiksi\r",
+                "Voitele perunat \u00f6ljyll\u00e4 ja mausta suolalla\r",
+                "Levit\u00e4 perunat kuumalle uunipellille ja paista uunissa 220C 30min, k\u00e4\u00e4ntele puolessa v\u00e4liss\u00e4\r",
+                "Lis\u00e4\u00e4 viimeisen parin minuutin ajaksi perunoiden p\u00e4\u00e4lle valkosipulia ja persiljaa, ja sekoita kunnolla\r",
+                "Lis\u00e4\u00e4 perunoiden sekaan lopuksi parmesaania"
+            ],
+            "keys": [
+                "Peruna",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Aura-lyttyperunat",
+            "ingredients": [
+                "Perunoita\r",
+                "Turkkilaista jugurttia\r",
+                "Majoneesia\r",
+                "Aurajuustomurua\r",
+                "\u00d6ljy\u00e4"
+            ],
+            "instructions": [
+                "Keit\u00e4 perunat kypsiksi runsaasti suolatussa vedess\u00e4\r",
+                "Levit\u00e4 perunat pellille ja litist\u00e4 ne esim lasilla\r",
+                "Voitele perunat \u00f6ljyll\u00e4\r",
+                "Paista perunat uusissa 225C, kunnes ne ovat saaneet hieman v\u00e4ri\u00e4\r",
+                "Valmista kastike: sekoita puolet majoneesia ja puolet turkkilaista jugurttia\r",
+                "Levit\u00e4 kastike perunoiden p\u00e4\u00e4lle, ja ripottele paljon auramurua"
+            ],
+            "keys": [
+                "Peruna",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Pesto-pekoni-lyttyperunat",
+            "ingredients": [
+                "Perunoita\r",
+                "Pekonia\r",
+                "Parmesaania\r",
+                "Majoneesia\r",
+                "Pestoa\r",
+                "\u00d6ljy\u00e4\r",
+                "Sitruunamehua"
+            ],
+            "instructions": [
+                "Keit\u00e4 perunat\r",
+                "Levit\u00e4 perunat pellille ja litist\u00e4 esim. lasilla\r",
+                "Voitele perunat \u00f6ljyll\u00e4, ja paista uunissa 225C kunnes perunat ovat kullanruskeita\r",
+                "Kastike: sekoita 50/50 majoneesia ja pestoa, ja lis\u00e4\u00e4 hieman sitruunamehua\r",
+                "Paista pekoni rapeaksi ja kuivata talouspaperin p\u00e4\u00e4ll\u00e4\r",
+                "Pilko j\u00e4\u00e4htyneet pekonit pieniksi paloiksi\r",
+                "Levit\u00e4 perunoiden p\u00e4\u00e4lle kastiketta, juustoraastetta ja pekonimurua"
+            ],
+            "keys": [
+                "Peruna",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Lyttyporkkanat",
+            "ingredients": [
+                "Porkkanoita\r",
+                "100g voita\r",
+                "2rkl sitruunan kuorta\r",
+                "Sitruunamehua\r",
+                "Mausteet: Chilipippuria, persiljaa, basilikaa"
+            ],
+            "instructions": [
+                "Pilko porkkanat sopivan kokoisiksi paloiksi (riitt\u00e4v\u00e4n paksuiksi) ja keit\u00e4 kattilassa 15-18min\r",
+                "Valmista maustevoi: Sekoita kaikki ainekset pehme\u00e4\u00e4n voihin\r",
+                "Kaada pellille hieman \u00f6ljy\u00e4 ja porkkanat, ja liiskaa porkkanat esim. lasilla\r",
+                "Ripottele p\u00e4\u00e4lle mausteita, ja paista uunissa 200C 20-25min, kunnes porkkanat ovat rapeita"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Lyttyporkkanat",
+            "ingredients": [
+                "Porkkanoita\r",
+                "100g voita\r",
+                "2rkl sitruunan kuorta\r",
+                "Sitruunamehua\r",
+                "Mausteet: Chilipippuria, persiljaa, basilikaa"
+            ],
+            "instructions": [
+                "Pilko porkkanat sopivan kokoisiksi paloiksi (riitt\u00e4v\u00e4n paksuiksi) ja keit\u00e4 kattilassa 15-18min\r",
+                "Valmista maustevoi: Sekoita kaikki ainekset pehme\u00e4\u00e4n voihin\r",
+                "Kaada pellille hieman \u00f6ljy\u00e4 ja porkkanat, ja liiskaa porkkanat esim. lasilla\r",
+                "Ripottele p\u00e4\u00e4lle mausteita, ja paista uunissa 200C 20-25min, kunnes porkkanat ovat rapeita"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Taco snacksit",
+            "ingredients": [
+                "Py\u00f6reit\u00e4 nachoja\r",
+                "Juustoraastetta\r",
+                "Jauhelihaa, kanaa tms. t\u00e4ytett\u00e4\r",
+                "Dipiksi: salsaa/guacamolea/ranskankermaa"
+            ],
+            "instructions": [
+                "Mausta ja paista t\u00e4yte\r",
+                "Levit\u00e4 nachot pellille\r",
+                "Laita nachojen p\u00e4\u00e4lle t\u00e4yte ja juustoraaste\r",
+                "Paista uunissa 350C 5-7min (kunnes juusto on sulanut\r",
+                "Taita nachot kahtia\r",
+                "Tarjoile dipin kera"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Liha",
+                "Jauheliha",
+                "Kana"
+            ]
+        },
+        {
+            "name": "Sourcream-onion perunat",
+            "ingredients": [
+                "500-600g keitettyj\u00e4 (varhaisperunoita)\r",
+                "1prk hapan-/ranskankermaa\r",
+                "Fetajuustoa\r",
+                "Mausteet: suola, 2tl sipulijauhetta, 1tl valkosipulijauhetta, 2tl kuivattua persiljaa"
+            ],
+            "instructions": [
+                "Levit\u00e4 perunat uunivuokaan ja mausta suolalla\r",
+                "Sekoita loput mausteet kermaan\r",
+                "Levit\u00e4 kastike perunoiden p\u00e4\u00e4lle\r",
+                "Ripottele p\u00e4\u00e4lle fetajuustoa\r",
+                "Paista uunissa 225C n. 30min"
+            ],
+            "keys": [
+                "Peruna",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "BicMac -tacot",
+            "ingredients": [
+                "Tortilloja\r",
+                "Jauhelihaa\r",
+                "Salaattia\r",
+                "Turkkilainen jugurtti\r",
+                "Sinappi\r",
+                "Suolakurkku\r",
+                "Juusto\r",
+                "Salaatti\r",
+                "(Sipuli, suolakurkku)\r",
+                "Mausteet: suola, pippuri, paprikajauhe, valkosipuli"
+            ],
+            "instructions": [
+                "Sekoita turkkilaiseen jugurttiin sinappia, hieman suolakurkun nestett\u00e4, pilkottua suolakurkkua, valkosipulijauhetta ja paprikajauhetta\r",
+                "Levit\u00e4 jauhelihaa ohueksi kerrokseksi tortillan p\u00e4\u00e4lle\r",
+                "Mausta jauheliha suolalla, paprikajauhella, valkosipulijauheella ja pippurilla\r",
+                "Paista ensin jauhelihan puolelta, ja sitten tortillan puolelta\r",
+                "Lis\u00e4\u00e4 juusto hetkeksi sulamaan tortillan p\u00e4\u00e4lle\r",
+                "Lis\u00e4\u00e4 haluamasi t\u00e4ytteet ja kastike\r",
+                "Taita tortilla puoliksi"
+            ],
+            "keys": [
+                "Tortilla",
+                "Jauheliha",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Juustovohvelit",
+            "ingredients": [
+                "Juustoa\r",
+                "Salamia/Meetvurstia\r",
+                "Dippi / turkkilainen jugurtti"
+            ],
+            "instructions": [
+                "L\u00e4mmit\u00e4 vohvelirauta keskil\u00e4mm\u00f6ll\u00e4\r",
+                "Levit\u00e4 raudalle juustoa, v\u00e4liin salamia ja p\u00e4\u00e4lle juustoa\r",
+                "Paista hetki, kun ovat kiinteit\u00e4 niin sammuta rauta ja anna viel\u00e4 tekeyty\u00e4 hetki"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Liha"
+            ]
+        },
+        {
+            "name": "Fetaleip\u00e4",
+            "ingredients": [
+                "Feta\r",
+                "Tuorejuusto\r",
+                "Minttu\r",
+                "Pinaatti\r",
+                "Kreikkalainen jugurtti\r",
+                "Jauhoja\r",
+                "Extra: Tarjoile persiljan ja peston kanssa"
+            ],
+            "instructions": [
+                "Murskaa feta ja sekoita siihen tuorejuustoa, minttua ja pinaattia\r",
+                "Sekoita kreikkalaisesta jugurtista ja jauhoista taikina\r",
+                "Jaa taikinapallo nelj\u00e4\u00e4n osaan ja levit\u00e4 ohueksi\r",
+                "Laita keskelle taikinaa fetaseosta, ja taittele taikina sen ymp\u00e4rille\r",
+                "Taputtele taikinanyytti \"leiv\u00e4ksi\", ja paista pannulla, kunnes se on rapea\r",
+                "Levit\u00e4 p\u00e4\u00e4lle persiljaa ja pestoa"
+            ],
+            "keys": [
+                "Pitaleip\u00e4",
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Nugetit",
+            "ingredients": [
+                "Kanafileit\u00e4\r",
+                "2 kananmunaa\r",
+                "Korppujauhoja, perunamaustetta ja sipsej\u00e4 / Cornflakes-muroja\r",
+                "Mausteet: grillimauste / ranchdippi, lime\r",
+                "Dippi: Kreikkalainen jugurtti, ketsuppi, yrttimauste, grillimauste, tuore valkosipuli, sitruunamehu"
+            ],
+            "instructions": [
+                "Leikkaa kanafileet sopivan kokoisiksi paloiksi\r",
+                "Mausta kanat grillimausteella /ranchdipill\u00e4 (anna maustua v\u00e4h. 30min) ja mustapippurilla / mill\u00e4 haluut\r",
+                "Py\u00f6rittele kanat kananmunassa (voi lis\u00e4t\u00e4 hieman vett\u00e4 ja limenkuorta) ja murennetuissa muroissa/sipseiss\u00e4/korppujauhoissa\r",
+                "Paista uunissa 200C 14-17min\r",
+                "Valmista dippi: sekoita kreikkalaiseen jugurttiin ketsuppia, yrttimaustetta, grillimaustetta, tuoretta valkosipulia ja sitruunamehua"
+            ],
+            "keys": [
+                "Kana"
+            ]
+        },
+        {
+            "name": "Lohipasta",
+            "ingredients": [
+                "Spagettia\r",
+                "2pkt graavilohta\r",
+                "2 lime\u00e4\r",
+                "2pkt tuorejuustoa (esim. mustapippuri)\r",
+                "Mausteet: valkosipuli, sokeri"
+            ],
+            "instructions": [
+                "Lis\u00e4\u00e4 pannulle voita, tuoretta valkosipulia, limejen mehut ja hieman sokeria. Anna hetki paistua\r",
+                "Lis\u00e4\u00e4 pannulle tuorejuustot\r",
+                "Keit\u00e4 spagetti\r",
+                "Suikaloi graavilohi pannulle, lis\u00e4\u00e4 n. 2dl pastan keitinvett\u00e4 sekaan\r",
+                "Kun pasta on kyps\u00e4, sekoita pannulle lohen ja kastikkeen sekaan, ja anna muhia viel\u00e4 hetki"
+            ],
+            "keys": [
+                "Pasta",
+                "Kala"
+            ]
+        },
+        {
+            "name": "Halloumi-Limonello pasta",
+            "ingredients": [
+                "300g pastaa (esim. linguine)\r",
+                "1pkt halloumia\r",
+                "1 1/2rkl hunajaa\r",
+                "2dl turkkilaista jogurttia\r",
+                "1/2 sitruuna\r",
+                "Mausteet: sipuli, valkosipuli, kurkuma\r",
+                "Extrat: Parmesaani "
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta\r",
+                "Raasta puolikkaan sitruunan kuori ja purista mehu\r",
+                "Paloittele ja ruskista halloumi, siirr\u00e4 sivuun odottelemaan\r",
+                "Lis\u00e4\u00e4 pannulle voita, sipulia, valkosipulia, sitruunan kuori ja mehu, hunaja, ja kurkumaa\r",
+                "Lis\u00e4\u00e4 joukkoon halloumi\r",
+                "Sammuta liesi, ja lis\u00e4\u00e4 joukkoon pasta ja jogurtti\r",
+                "Sekoita ja tarjoile parmesaaniraasten kanssa\r",
+                ""
+            ],
+            "keys": [
+                "Pasta",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Tonnikala-kurkkuvene",
+            "ingredients": [
+                "1 kurkku\r",
+                "1prk tonnikalaa\r",
+                "Kreikkalaista jugurttia\r",
+                "Tilli\u00e4\r",
+                "Sitruunamehua\r",
+                "Mausteet: suola, pippuri"
+            ],
+            "instructions": [
+                "Sekoita jugurttiin tonnikalaa, tilli\u00e4, sitruunan mehua ja mausteet\r",
+                "Halkaise kurkku puoliksi ja kaavi sen sisus (siemenet) pois (voi tehd\u00e4 my\u00f6s naposteltavaksi leikkaamalla kurkkua pienempiin paloihin)\r",
+                "Levit\u00e4 tonnikalatahna kurkkuihin\r"
+            ],
+            "keys": [
+                "Kala"
+            ]
+        },
+        {
+            "name": "Kananmuna-juusto sandwich",
+            "ingredients": [
+                "2kpl paahtoleipi\u00e4\r",
+                "Kananmunaa\r",
+                "Juustoviipaleita\r",
+                "Juustoraastetta"
+            ],
+            "instructions": [
+                "Lis\u00e4\u00e4 juustoviipaleita pannulle\r",
+                "Kun juusto on sulanut, kaada p\u00e4\u00e4lle kananmunaa\r",
+                "Leikkaa leipiin ympyr\u00e4nmuotoinen keskusta\r",
+                "Lis\u00e4\u00e4 kananmunan p\u00e4\u00e4lle leiv\u00e4t\r",
+                "Laita leipien reikiin juustoraastetta\r",
+                "Paista, kunnes kananmuna on kyps\u00e4\u00e4 ja juustoraaste on sulanut\r",
+                "K\u00e4\u00e4nn\u00e4, ja lis\u00e4\u00e4 p\u00e4\u00e4lle viel\u00e4 muutama juustosiivu\r",
+                "Levit\u00e4 p\u00e4\u00e4lle haluamaasi kastiketta/majoneesia\r",
+                "Taita kananmunan sivut p\u00e4\u00e4lle, ja taita leiv\u00e4t p\u00e4\u00e4llekk\u00e4in\r",
+                "Leikkaa sandwich kolmioiksi"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Pizza burger",
+            "ingredients": [
+                "Pizzataikina\r",
+                "Tomaattikastike\r",
+                "Juustoa\r",
+                "Salamia\r",
+                "Jauhelihaa\r",
+                "Salaattia\r",
+                "Burgerkastiketta"
+            ],
+            "instructions": [
+                "Valmista 2 pient\u00e4 pizzataikinaa\r",
+                "Levit\u00e4 p\u00e4\u00e4lle tomaattikastike, juustoa ja salamia\r",
+                "Paista uunissa\r",
+                "Paista jauhelihapihvi pannulla, ja sulata p\u00e4\u00e4lle juustoa\r",
+                "Kasaa pihvi, salaattia ja kastiketta burgeriksi pizzojen v\u00e4liin\r",
+                ""
+            ],
+            "keys": [
+                "Liharuuat"
+            ]
+        },
+        {
+            "name": "Hunaja-valkosipuli kana",
+            "ingredients": [
+                "Kanafileit\u00e4\r",
+                "Maissit\u00e4rkkelyst\u00e4 / jauhoja\r",
+                "Hunajaa\r",
+                "Soijaa\r",
+                "Voita\r",
+                "Mausteet: suola, pippuri, valkosipuli"
+            ],
+            "instructions": [
+                "Mausta kanafileet\r",
+                "Py\u00f6rittele kanat maissit\u00e4rkkelyksess\u00e4\r",
+                "Paista kanat pannulla 4min per puoli, ja siirr\u00e4 sivuun odottamaan\r",
+                "Lis\u00e4\u00e4 pannulle reilusti valkosipulia, hunajaa, soijaa, nokare voita, ja hauduta 30s\r",
+                "Lis\u00e4\u00e4 kanat takaisin pannulle, ja paista korkealla l\u00e4mm\u00f6ll\u00e4 2min\r",
+                "Tarjoile esim. riisin kanssa"
+            ],
+            "keys": [
+                "Kana"
+            ]
+        },
+        {
+            "name": "Mozzarellapastatikut",
+            "ingredients": [
+                "Putkimaista pastaa\r",
+                "Tomaatti-/Pizzakastiketta\r",
+                "Mozzarellapaloja\r",
+                "Mozzarellaraastetta"
+            ],
+            "instructions": [
+                "Keit\u00e4 pasta\r",
+                "T\u00e4yt\u00e4 pastat juustopaloilla\r",
+                "Laita juustolla t\u00e4ytetyt pastat vierekk\u00e4in esim. grillivartaaseen\r",
+                "Levit\u00e4 pastojen p\u00e4\u00e4lle kastiketta ja juustoraastetta\r",
+                "Paista uunissa 180C 10min"
+            ],
+            "keys": [
+                "Pasta",
+                "Kasvisruoka",
+                "V\u00e4lipala"
+            ]
+        },
+        {
+            "name": "Kurkkusushi",
+            "ingredients": [
+                "Kurkku\r",
+                "Lohta/tonnikalaa\r",
+                "(Avokadoa)\r",
+                "Philadelphiajuustoa\r",
+                "Mausteeksi: seesaminsiemeni\u00e4, soijaa, teriaykia\r",
+                ""
+            ],
+            "instructions": [
+                "Leikkaa juustoh\u00f6yl\u00e4ll\u00e4 kurkusta pitki\u00e4 suikaleita\r",
+                "Levit\u00e4 kurkut esim. leivinpaperille lomittain levyksi, ja painele talouspaperilla kuivemmaksi\r",
+                "Levit\u00e4 kurkkulevyn p\u00e4\u00e4lle philadelphiajuustoa, lohta/tonnikalaa, (avokadoviipaleita), sushiriisi\u00e4 ja mausteita\r",
+                "K\u00e4\u00e4ri sushi rullalle ja leikkaa sopiviksi paloiksi\r",
+                "Ripottele p\u00e4\u00e4lle haluamasi mausteet"
+            ],
+            "keys": [
+                "Kala"
+            ]
+        },
+        {
+            "name": "Sushivohveli",
+            "ingredients": [
+                "Sushiriisi\u00e4\r",
+                "Lohta\r",
+                "Kurkkua\r",
+                "(Avokadoa)\r",
+                "Soijaa/Teriaykia/Majoneesia/Sriracha"
+            ],
+            "instructions": [
+                "Keit\u00e4 riisi\r",
+                "Levit\u00e4 riisi voidellulle vohveliraudalle ja paista rapeaksi\r",
+                "Levit\u00e4 riisivohvelin p\u00e4\u00e4lle lohta, kurkkua, avokadoa ja kastikkeita + seesaminsiemeni\u00e4\r",
+                ""
+            ],
+            "keys": [
+                "Kala"
+            ]
+        },
+        {
+            "name": "Paahdetut parmesaaniperunat",
+            "ingredients": [
+                "Perunoita\r",
+                "Parmesaaniraastetta\r",
+                "Voita\r",
+                "Suolaa"
+            ],
+            "instructions": [
+                "Keit\u00e4 perunat\r",
+                "Litist\u00e4 keitetyt perunat pellille\r",
+                "Raasta p\u00e4\u00e4lle parmesaania ja lis\u00e4\u00e4 hieman suolaa\r",
+                "Lis\u00e4\u00e4 voita siivuina\r",
+                "Paahda uunissa 225C kunnes pinta ruskistuu hieman"
+            ],
+            "keys": [
+                "Peruna",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Paahdettu valkosipuli-tomaattikeitto",
+            "ingredients": [
+                "n. 15kpl isoja tomaatteja \r",
+                "Kirsikkatomaatteja\r",
+                "Sipulilohkoja\r",
+                "Kokonaisia valkosipuleja\r",
+                "Oliivi\u00f6ljy\u00e4\r",
+                "Timjamia\r",
+                "Ravintohiivaa? (nutritional yeast)\r",
+                "Mausteet: suola, pippuri\r",
+                "Extrat: patonki, loraus kermaa"
+            ],
+            "instructions": [
+                "Levit\u00e4 syv\u00e4lle pellille tomaatit, sipulit ja timjamit, ja kaada niiden p\u00e4\u00e4lle oliivi\u00f6ljy\u00e4\r",
+                "Paahda uunissa 220C 40min\r",
+                "Laita ainekset kulhoon/blenderiin (purista valkosipulit ulos). Lis\u00e4\u00e4 sekaan tuoretta basilikaa, hiivaa ja keitinlient\u00e4, ja soseuta\r",
+                "Tarjoile tuoreen leiv\u00e4n/patongin kanssa"
+            ],
+            "keys": [
+                "Keitto",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Mozzarellatikut",
+            "ingredients": [
+                "Mozzarellaa\r",
+                "2-3 kananmunaa\r",
+                "Jauhoja\r",
+                "Korppujauhoja\r",
+                "Mausteet: suola, valkosipuli"
+            ],
+            "instructions": [
+                "Pilko mozzarella sopiviksi suikaleiksi\r",
+                "Pakasta tikkuja 30min-2h\r",
+                "Leivit\u00e4 mozzarellatikkuja jauhoissa, kananmunassa ja korppujauhoissa (maustettu suolalla ja valkosipulilla)\r",
+                "Paista airfryerissa 200C 3-4min"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Mansikka-suklaa toastit",
+            "ingredients": [
+                "Paahtoleip\u00e4\u00e4\r",
+                "Suklaakastiketta/Nutellaa\r",
+                "Mansikoita\r",
+                "Koristeeksi: tomusokeria"
+            ],
+            "instructions": [
+                "Leikkaa leiv\u00e4n reunat pois ja kauli ohueksi\r",
+                "Voitele leip\u00e4 suklaakastikkeella\r",
+                "Leikkaa mansikat pieneksi silpuksi ja levit\u00e4 leiv\u00e4n p\u00e4\u00e4lle\r",
+                "Rullaa leip\u00e4, ja paahda hetki pannulla\r",
+                "Tarjoile suklaakastikkeen kanssa dipattavaksi"
+            ],
+            "keys": [
+                "J\u00e4lkiruoka"
+            ]
+        },
+        {
+            "name": "Parmesaani-porkkanatikut",
+            "ingredients": [
+                "Porkkanoita\r",
+                "Oliivi\u00f6ljy\u00e4\r",
+                "Valkosipulia\r",
+                "Parmesaania\r",
+                "Mausteet: paprikajauhetta, chili\u00e4, sipulia, yrttej\u00e4"
+            ],
+            "instructions": [
+                "Kuori porkkanat, pilko kolmeen osaan ja puolita\r",
+                "Sekoita kesken\u00e4\u00e4n oliivi\u00f6ljy, tuore valkosipuli, v\u00e4h\u00e4n parmesaaniraastetta ja mausteet\r",
+                "Kaada mausteseos porkkatikkujen sekaan, ja sekoita\r",
+                "Py\u00f6rit\u00e4 porkkatikut parmesaanijuustoraasteessa\r",
+                "Paahda uunissa 225C 20-25min\r",
+                "Tarjoile dipin kanssa\r"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                "Kasvisruoka"
+            ]
+        },
+        {
+            "name": "Lohisuupalat",
+            "ingredients": [
+                "1 rs ruohosipulituorejuustoa\r",
+                "1 prk ranskankermaa\r",
+                "200g kylm\u00e4savulohta\r",
+                "Mausteet: mustapippuria, tilli\u00e4"
+            ],
+            "instructions": [
+                "Yhdist\u00e4 ainekset ja sekoita\r",
+                "Levit\u00e4 t\u00e4ytteet\r",
+                "K\u00e4\u00e4ri tiukoiksi rulliksi"
+            ],
+            "keys": [
+                "V\u00e4lipala",
+                " Tortilla",
+                " Kala"
+            ]
+        }
+    ]
+}

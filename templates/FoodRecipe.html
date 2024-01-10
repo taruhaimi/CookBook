@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ recipe.name }} - ohje</title>
+    <link rel="stylesheet" type="text/css" href="../templates/styles.css">
+
+</head>
+<body>
+    <h1>E-Kokkikirja</h1>
+    {% include "NavBar.html" %}
+
+    <h1>{{ recipe.name }}</h1>
+    <div class="container-recipe">
+        <div class="list">
+            <h2> Aineosat </h2>
+            <ul>
+                {% for ing in recipe.ingredients %}
+                    <li>
+                        <p><strong>{{ ing }} </strong> </p>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="list">
+            <h2> Valmistusohjeet </h2>
+            <ol>
+                {% for inst in recipe.instructions %}
+                    <li>
+                        <p><strong>{{ inst }} </strong> </p>
+                    </li>
+                {% endfor %}
+            </ol>
+        </div>
+        <div class="image">
+            <img src="../templates/images/{{recipe.name}}.png" alt="Image of {{recipe.name}}">
+        </div>
+    </div>
+
+</body>
+</html>
